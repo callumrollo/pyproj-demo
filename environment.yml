@@ -1,0 +1,14 @@
+name: geospatial
+channels:
+  - conda-forge
+dependencies:
+        - numpy
+        - cartopy
+        - geopandas
+        - matplotlib
+        - python
+        - xarray
+        - ipython
+        - python
+        - geopy
+        - jupyter
